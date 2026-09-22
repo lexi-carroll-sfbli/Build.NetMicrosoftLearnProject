@@ -2,16 +2,10 @@
 
 namespace Build.Net_Microsoft_Learn_Project
 {
-    class StoreandRetriveDataInCS2
+    class StoreandRetriveDataInCSClass
     {
         public string firstName;
         public int numberOfEmails;
-        /*
-         char userOption;
-         int gameScore;
-         decimal particlesPerMillion;
-         bool processedCustomer;
-        */
     }
 
     static class SetFirstName

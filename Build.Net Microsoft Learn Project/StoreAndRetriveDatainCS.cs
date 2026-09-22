@@ -1,4 +1,5 @@
-﻿using Build.Net_Microsoft_Learn_Project;
+﻿/*
+ using Build.Net_Microsoft_Learn_Project;
 
 Console.WriteLine('b');
 
@@ -20,5 +21,4 @@ Console.WriteLine("");
 Console.WriteLine("If you are American or otherwise used to using Fahrenheit, you  may prefer to see the temperature that way instead.");
 Console.WriteLine("");
 Console.WriteLine($"{SetTemperatureInCelcius.temperatureInCelcius} degrees Celsius = {SetTemperatureInFahrenheit.temperatureInFahrenheit} degrees Fahrenheit");
-
-
+*/
