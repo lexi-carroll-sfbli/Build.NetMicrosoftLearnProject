@@ -13,6 +13,22 @@ namespace Build.Net_Microsoft_Learn_Project
         public static string firstName = "Bob";
     }
 
+    static class SetGreeting
+    {
+        public static string greeting = "Hello";
+    }
+
+    /*
+    static class SetMessage
+    {
+        public static string message = SetGreeting.greeting + " " + SetFirstName.firstName + "!";
+    }
+    */
+    static class SetMessage
+    {
+        public static string message = $"Hello {SetFirstName.firstName}!";
+    }
+
     static class SetNumberOfEmails
     {
         public static int numberOfEmails = 3;
